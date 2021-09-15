@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R6x9UjoHThCv0z2Kh0/gjO1TPUYLenF0Q7Fh3R0zTM8QBgDo1plIVC5L0om/llJvqs8VDQxgjVIw6th0XpJmDA==",
+  "dgSpecHash": "ZoR2nSOAfDjINeR3RL7RnrXoTP3QsTkVArAGNLjGvupjbT3mkKqUyI32M7vDSxAFOVEQuWcvphk+m/5UsI0keA==",
   "success": true,
-  "projectFilePath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\Config\\Config.csproj",
+  "projectFilePath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\BlazorShared\\Config.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lenovo\\.nuget\\packages\\blazorinputfile\\0.2.0\\blazorinputfile.0.2.0.nupkg.sha512",
     "C:\\Users\\lenovo\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",

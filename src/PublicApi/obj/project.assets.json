@@ -9352,8 +9352,8 @@
     },
     "Config/1.0.0": {
       "type": "project",
-      "path": "../BlazorShared/Config.csproj",
-      "msbuildProject": "../BlazorShared/Config.csproj"
+      "path": "../Config/Config.csproj",
+      "msbuildProject": "../Config/Config.csproj"
     },
     "Infrastructure/1.0.0": {
       "type": "project",
