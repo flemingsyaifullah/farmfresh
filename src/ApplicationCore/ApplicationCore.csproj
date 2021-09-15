@@ -2,7 +2,7 @@
 
 	<PropertyGroup>
 		<TargetFramework>net5.0</TargetFramework>
-		<RootNamespace>Microsoft.FarmFresh.ApplicationCore</RootNamespace>
+		<RootNamespace>FarmFresh.ApplicationCore</RootNamespace>
 	</PropertyGroup>
 
 	<ItemGroup>
@@ -11,10 +11,6 @@
 		<PackageReference Include="MediatR" Version="9.0.0" />
 		<PackageReference Include="System.Security.Claims" Version="4.3.0" />
 		<PackageReference Include="System.Text.Json" Version="5.0.0" />
-	</ItemGroup>
-
-	<ItemGroup>
-	  <ProjectReference Include="..\BlazorShared\BlazorShared.csproj" />
 	</ItemGroup>
 
 </Project>

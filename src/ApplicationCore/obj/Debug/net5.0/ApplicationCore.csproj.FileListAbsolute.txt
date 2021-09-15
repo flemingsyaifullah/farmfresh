@@ -43,3 +43,14 @@ C:\HAULIO\FarmFresh2\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.csproj
 C:\HAULIO\FarmFresh2\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.dll
 C:\HAULIO\FarmFresh2\src\ApplicationCore\obj\Debug\net5.0\ref\ApplicationCore.dll
 C:\HAULIO\FarmFresh2\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.pdb
+C:\HAULIO\FarmFresh3\farmfresh\src\ApplicationCore\bin\Debug\net5.0\ApplicationCore.deps.json
+C:\HAULIO\FarmFresh3\farmfresh\src\ApplicationCore\bin\Debug\net5.0\ApplicationCore.dll
+C:\HAULIO\FarmFresh3\farmfresh\src\ApplicationCore\bin\Debug\net5.0\ref\ApplicationCore.dll
+C:\HAULIO\FarmFresh3\farmfresh\src\ApplicationCore\bin\Debug\net5.0\ApplicationCore.pdb
+C:\HAULIO\FarmFresh3\farmfresh\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\HAULIO\FarmFresh3\farmfresh\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.AssemblyInfoInputs.cache
+C:\HAULIO\FarmFresh3\farmfresh\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.AssemblyInfo.cs
+C:\HAULIO\FarmFresh3\farmfresh\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\HAULIO\FarmFresh3\farmfresh\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.dll
+C:\HAULIO\FarmFresh3\farmfresh\src\ApplicationCore\obj\Debug\net5.0\ref\ApplicationCore.dll
+C:\HAULIO\FarmFresh3\farmfresh\src\ApplicationCore\obj\Debug\net5.0\ApplicationCore.pdb

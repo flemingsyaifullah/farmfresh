@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace FarmFresh.PublicApi.CatalogItemEndpoints
 {
-    [Authorize(Roles = BlazorShared.Authorization.Constants.Roles.ADMINISTRATORS, AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
+    [Authorize(Roles = Config.Authorization.Constants.Roles.ADMINISTRATORS, AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class Delete : BaseAsyncEndpoint
         .WithRequest<DeleteCatalogItemRequest>
         .WithResponse<DeleteCatalogItemResponse>

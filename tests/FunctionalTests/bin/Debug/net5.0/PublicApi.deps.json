@@ -2386,7 +2386,6 @@
         "dependencies": {
           "Ardalis.GuardClauses": "3.0.1",
           "Ardalis.Specification": "4.1.0",
-          "BlazorShared": "1.0.0",
           "MediatR": "9.0.0",
           "System.Security.Claims": "4.3.0",
           "System.Text.Json": "5.0.0"
@@ -2398,16 +2397,16 @@
           "ApplicationCore.dll": {}
         }
       },
-      "BlazorShared/1.0.0": {
+      "Config/1.0.0": {
         "dependencies": {
           "BlazorInputFile": "0.2.0",
           "FluentValidation": "9.3.0"
         },
         "runtime": {
-          "BlazorShared.dll": {}
+          "Config.dll": {}
         },
         "compile": {
-          "BlazorShared.dll": {}
+          "Config.dll": {}
         }
       },
       "Infrastructure/1.0.0": {
@@ -2416,6 +2415,7 @@
           "Ardalis.EFCore.Extensions": "1.1.0",
           "Ardalis.Specification": "4.1.0",
           "Ardalis.Specification.EntityFrameworkCore": "4.1.0",
+          "Config": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
           "System.IdentityModel.Tokens.Jwt": "6.8.0"
@@ -5461,7 +5461,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "BlazorShared/1.0.0": {
+    "Config/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

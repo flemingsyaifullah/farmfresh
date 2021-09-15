@@ -12,12 +12,10 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap4")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\HAULIO\\FarmFresh2\\src\\ApplicationCore", "ApplicationCore.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("BlazorAdmin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\HAULIO\\FarmFresh2\\src\\BlazorAdmin", "BlazorAdmin.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("BlazorShared, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\HAULIO\\FarmFresh2\\src\\BlazorShared", "BlazorShared.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\HAULIO\\FarmFresh2\\src\\Infrastructure", "Infrastructure.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("PublicApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\HAULIO\\FarmFresh2\\src\\PublicApi", "PublicApi.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Web, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\HAULIO\\FarmFresh2\\src\\Web", "Web.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("ApplicationCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\ApplicationCore", "ApplicationCore.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Config, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\BlazorShared", "Config.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\Infrastructure", "Infrastructure.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("PublicApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\PublicApi", "PublicApi.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunctionalTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]

@@ -8,7 +8,7 @@ namespace FarmFresh.Infrastructure.Identity
     {
         public static async Task SeedAsync(UserManager<ApplicationUser> userManager, RoleManager<IdentityRole> roleManager)
         {
-            await roleManager.CreateAsync(new IdentityRole(BlazorShared.Authorization.Constants.Roles.ADMINISTRATORS));
+            await roleManager.CreateAsync(new IdentityRole(Config.Authorization.Constants.Roles.ADMINISTRATORS));
 
             var defaultUser = new ApplicationUser { UserName = "farmfreshuser1@farmfresh.com", Email = "farmfreshuser1@farmfresh.com" };
             await userManager.CreateAsync(defaultUser, AuthorizationConstants.DEFAULT_PASSWORD);
@@ -17,7 +17,7 @@ namespace FarmFresh.Infrastructure.Identity
             var adminUser = new ApplicationUser { UserName = adminUserName, Email = adminUserName };
             await userManager.CreateAsync(adminUser, AuthorizationConstants.DEFAULT_PASSWORD);
             adminUser = await userManager.FindByNameAsync(adminUserName);
-            await userManager.AddToRoleAsync(adminUser, BlazorShared.Authorization.Constants.Roles.ADMINISTRATORS);
+            await userManager.AddToRoleAsync(adminUser, Config.Authorization.Constants.Roles.ADMINISTRATORS);
         }
     }
 }

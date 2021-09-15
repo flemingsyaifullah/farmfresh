@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Microsoft.FarmFresh.Infrastructure
-build_property.ProjectDir = C:\HAULIO\FarmFresh2\src\Infrastructure\
+build_property.RootNamespace = FarmFresh.Infrastructure
+build_property.ProjectDir = C:\HAULIO\FarmFresh3\farmfresh\src\Infrastructure\

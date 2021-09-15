@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\HAULIO\\FarmFresh2\\src\\PublicApi\\PublicApi.csproj": {}
+    "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\PublicApi\\PublicApi.csproj": {}
   },
   "projects": {
-    "C:\\HAULIO\\FarmFresh2\\src\\ApplicationCore\\ApplicationCore.csproj": {
+    "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\ApplicationCore\\ApplicationCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HAULIO\\FarmFresh2\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "projectUniqueName": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\ApplicationCore\\ApplicationCore.csproj",
         "projectName": "ApplicationCore",
-        "projectPath": "C:\\HAULIO\\FarmFresh2\\src\\ApplicationCore\\ApplicationCore.csproj",
+        "projectPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\ApplicationCore\\ApplicationCore.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\HAULIO\\FarmFresh2\\src\\ApplicationCore\\obj\\",
+        "outputPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\ApplicationCore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,7 @@
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
-            "projectReferences": {
-              "C:\\HAULIO\\FarmFresh2\\src\\BlazorShared\\BlazorShared.csproj": {
-                "projectPath": "C:\\HAULIO\\FarmFresh2\\src\\BlazorShared\\BlazorShared.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -84,14 +80,14 @@
         }
       }
     },
-    "C:\\HAULIO\\FarmFresh2\\src\\BlazorShared\\BlazorShared.csproj": {
+    "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\BlazorShared\\Config.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HAULIO\\FarmFresh2\\src\\BlazorShared\\BlazorShared.csproj",
-        "projectName": "BlazorShared",
-        "projectPath": "C:\\HAULIO\\FarmFresh2\\src\\BlazorShared\\BlazorShared.csproj",
+        "projectUniqueName": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\BlazorShared\\Config.csproj",
+        "projectName": "Config",
+        "projectPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\BlazorShared\\Config.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\HAULIO\\FarmFresh2\\src\\BlazorShared\\obj\\",
+        "outputPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\BlazorShared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -148,14 +144,14 @@
         }
       }
     },
-    "C:\\HAULIO\\FarmFresh2\\src\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HAULIO\\FarmFresh2\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\HAULIO\\FarmFresh2\\src\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\HAULIO\\FarmFresh2\\src\\Infrastructure\\obj\\",
+        "outputPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -172,8 +168,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\HAULIO\\FarmFresh2\\src\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\HAULIO\\FarmFresh2\\src\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\ApplicationCore\\ApplicationCore.csproj"
+              },
+              "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\BlazorShared\\Config.csproj": {
+                "projectPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\BlazorShared\\Config.csproj"
               }
             }
           }
@@ -232,14 +231,14 @@
         }
       }
     },
-    "C:\\HAULIO\\FarmFresh2\\src\\PublicApi\\PublicApi.csproj": {
+    "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\PublicApi\\PublicApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\HAULIO\\FarmFresh2\\src\\PublicApi\\PublicApi.csproj",
+        "projectUniqueName": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\PublicApi\\PublicApi.csproj",
         "projectName": "PublicApi",
-        "projectPath": "C:\\HAULIO\\FarmFresh2\\src\\PublicApi\\PublicApi.csproj",
+        "projectPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\PublicApi\\PublicApi.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\HAULIO\\FarmFresh2\\src\\PublicApi\\obj\\",
+        "outputPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\PublicApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -256,11 +255,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\HAULIO\\FarmFresh2\\src\\ApplicationCore\\ApplicationCore.csproj": {
-                "projectPath": "C:\\HAULIO\\FarmFresh2\\src\\ApplicationCore\\ApplicationCore.csproj"
+              "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\ApplicationCore\\ApplicationCore.csproj": {
+                "projectPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\ApplicationCore\\ApplicationCore.csproj"
               },
-              "C:\\HAULIO\\FarmFresh2\\src\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\HAULIO\\FarmFresh2\\src\\Infrastructure\\Infrastructure.csproj"
+              "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

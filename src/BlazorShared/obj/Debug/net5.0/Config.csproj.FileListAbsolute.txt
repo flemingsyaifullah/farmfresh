@@ -1,0 +1,12 @@
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\bin\Debug\net5.0\Config.deps.json
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\bin\Debug\net5.0\Config.dll
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\bin\Debug\net5.0\ref\Config.dll
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\bin\Debug\net5.0\Config.pdb
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\obj\Debug\net5.0\Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\obj\Debug\net5.0\Config.AssemblyInfoInputs.cache
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\obj\Debug\net5.0\Config.AssemblyInfo.cs
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\obj\Debug\net5.0\Config.csproj.CoreCompileInputs.cache
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\obj\Debug\net5.0\Config.dll
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\obj\Debug\net5.0\ref\Config.dll
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\obj\Debug\net5.0\Config.pdb
+C:\HAULIO\FarmFresh3\farmfresh\src\BlazorShared\obj\Debug\net5.0\Config.csproj.AssemblyReference.cache

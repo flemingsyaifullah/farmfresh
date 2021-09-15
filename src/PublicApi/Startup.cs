@@ -1,5 +1,5 @@
 using AutoMapper;
-using BlazorShared;
+using Config;
 using MediatR;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;

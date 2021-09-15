@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace FarmFresh.PublicApi.CatalogItemEndpoints
 {
-    [Authorize(Roles = BlazorShared.Authorization.Constants.Roles.ADMINISTRATORS, AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
+    [Authorize(Roles = Config.Authorization.Constants.Roles.ADMINISTRATORS, AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme)]
     public class Update : BaseAsyncEndpoint
         .WithRequest<UpdateCatalogItemRequest>
         .WithResponse<UpdateCatalogItemResponse>

@@ -2885,7 +2885,6 @@
         "dependencies": {
           "Ardalis.GuardClauses": "3.0.1",
           "Ardalis.Specification": "4.1.0",
-          "BlazorShared": "1.0.0",
           "MediatR": "9.0.0",
           "System.Security.Claims": "4.3.0",
           "System.Text.Json": "5.0.0"
@@ -2897,7 +2896,7 @@
           "bin/placeholder/ApplicationCore.dll": {}
         }
       },
-      "BlazorShared/1.0.0": {
+      "Config/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
@@ -2905,10 +2904,10 @@
           "FluentValidation": "9.3.0"
         },
         "compile": {
-          "bin/placeholder/BlazorShared.dll": {}
+          "bin/placeholder/Config.dll": {}
         },
         "runtime": {
-          "bin/placeholder/BlazorShared.dll": {}
+          "bin/placeholder/Config.dll": {}
         }
       },
       "Infrastructure/1.0.0": {
@@ -2919,6 +2918,7 @@
           "Ardalis.EFCore.Extensions": "1.1.0",
           "Ardalis.Specification": "4.1.0",
           "Ardalis.Specification.EntityFrameworkCore": "4.1.0",
+          "Config": "1.0.0",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
           "System.IdentityModel.Tokens.Jwt": "6.8.0"
@@ -9350,10 +9350,10 @@
       "path": "../ApplicationCore/ApplicationCore.csproj",
       "msbuildProject": "../ApplicationCore/ApplicationCore.csproj"
     },
-    "BlazorShared/1.0.0": {
+    "Config/1.0.0": {
       "type": "project",
-      "path": "../BlazorShared/BlazorShared.csproj",
-      "msbuildProject": "../BlazorShared/BlazorShared.csproj"
+      "path": "../BlazorShared/Config.csproj",
+      "msbuildProject": "../BlazorShared/Config.csproj"
     },
     "Infrastructure/1.0.0": {
       "type": "project",
@@ -9390,11 +9390,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\HAULIO\\FarmFresh2\\src\\PublicApi\\PublicApi.csproj",
+      "projectUniqueName": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\PublicApi\\PublicApi.csproj",
       "projectName": "PublicApi",
-      "projectPath": "C:\\HAULIO\\FarmFresh2\\src\\PublicApi\\PublicApi.csproj",
+      "projectPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\PublicApi\\PublicApi.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\HAULIO\\FarmFresh2\\src\\PublicApi\\obj\\",
+      "outputPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\PublicApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9411,11 +9411,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\HAULIO\\FarmFresh2\\src\\ApplicationCore\\ApplicationCore.csproj": {
-              "projectPath": "C:\\HAULIO\\FarmFresh2\\src\\ApplicationCore\\ApplicationCore.csproj"
+            "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\ApplicationCore\\ApplicationCore.csproj": {
+              "projectPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\ApplicationCore\\ApplicationCore.csproj"
             },
-            "C:\\HAULIO\\FarmFresh2\\src\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\HAULIO\\FarmFresh2\\src\\Infrastructure\\Infrastructure.csproj"
+            "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\HAULIO\\FarmFresh3\\farmfresh\\src\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
