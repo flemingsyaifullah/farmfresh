@@ -16,7 +16,11 @@ namespace FarmFresh.Infrastructure.Data
             try
             {
                 // TODO: Only run this if using a real database
-                catalogContext.Database.Migrate();
+                //catalogContext.Database.Migrate();
+                if (catalogContext.Database.ProviderName != "Microsoft.EntityFrameworkCore.InMemory")
+                {
+                    catalogContext.Database.Migrate();
+                }
                 if (!await catalogContext.CatalogBrands.AnyAsync())
                 {
                     await catalogContext.CatalogBrands.AddRangeAsync(

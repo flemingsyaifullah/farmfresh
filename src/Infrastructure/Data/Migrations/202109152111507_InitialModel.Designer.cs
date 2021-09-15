@@ -10,7 +10,7 @@ using FarmFresh.Infrastructure.Data;
 namespace FarmFresh.Infrastructure.Data.Migrations
 {
     [DbContext(typeof(CatalogContext))]
-    [Migration("20201202111507_InitialModel")]
+    [Migration("20210915111507_InitialModel")]
     partial class InitialModel
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
