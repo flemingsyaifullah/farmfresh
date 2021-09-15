@@ -1,5 +1,5 @@
 # farmfresh
-this is Farm Fresh API<br />
+This is Farm Fresh API<br />
 How to run : <br />
 1. Setup database connection at appsettings.json<br />
 2. Set as Start Up Project at PublicAPI Project<br />
